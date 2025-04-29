@@ -49,5 +49,5 @@ We use a `RandomForestRegressor` model to predict the adjusted closing price of 
    ```
 3. Run the code:
    ```bash
-   python main.py
+   python Gold-Price-Prediction.py
    ```
